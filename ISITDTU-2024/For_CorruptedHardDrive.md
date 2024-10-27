@@ -46,7 +46,7 @@ Check in image, it corrupted (lost `S` character in `NTFS`)
 I fix header by patch OEM ID to `0x4E54465320202020`
 
 Question 3:
-Load image to AutoSpy, UTC timezone 
+Load image to Autopsy, UTC timezone 
 
 - Check Web Downloads, got file `Blue_Team_Notes.pdf` has time created: `2024-10-22 21:51:13`
 
@@ -164,7 +164,7 @@ Easy to get `XXX = 126`
 
 Question 5: The first directory he moved this file to?
 
-Check timeline in AutoSpy, he access and delete file in `best` folder. 
+Check timeline in Autopsy, he access and delete file in `best` folder. 
 
 ![image-20241027201705062](For_CorruptedHardDrive_img/image-20241027201705062.png)
 
