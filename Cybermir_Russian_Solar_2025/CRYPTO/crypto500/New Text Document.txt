@@ -1,0 +1,7 @@
+We encrypted the flag using our custom obfuscation based on bitwise XORs and cyclic shifts.
+
+It's simple! No AES, no RSA. Just a little bit chaos.
+
+If you can untangle the XOR web, the flag is yours.
+
+mask.zip

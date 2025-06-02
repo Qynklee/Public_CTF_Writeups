@@ -1,0 +1,9 @@
+We dumped a process memory on a suspicious server.
+
+We suspect it contained an encrypted session key.
+
+But the key itself is not stored in plaintext.
+
+Can you find it?
+
+mem.zip

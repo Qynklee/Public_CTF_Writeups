@@ -1,0 +1,7 @@
+An agent using the pseudonym 'Chronos' sent encrypted messages via time nodes.
+
+His cipher was impossible to crack by conventional methods -
+
+all because of an unstable generator based on the time of sending.
+
+anomaly.zip

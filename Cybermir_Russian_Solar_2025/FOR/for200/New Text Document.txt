@@ -1,0 +1,9 @@
+An employee copied some documents to a USB flash drive before leaving.
+
+We managed to make a dump of this flash drive, but he deleted all the important files.
+
+We only have the image file usb_image.dd.
+
+Try to recover at least one deleted file - the flag may still be there.
+
+usb_image.dd

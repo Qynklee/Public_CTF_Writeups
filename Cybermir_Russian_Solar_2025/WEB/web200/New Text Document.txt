@@ -1,0 +1,9 @@
+Yet Another Login Form… but the devs are sure it’s unbreakable this time.
+
+The source code and a Dockerfile are provided.
+
+Your goal: analyze the code, find and exploit the vulnerabilities, and submit their CWE identifiers in the order you exploit them.
+
+No flag is hidden in the code or UI. Only your vulnerability analysis will be accepted.
+
+Flag format: \solar{CWE-XX}

@@ -1,0 +1,9 @@
+You receive a letter from an unknown address to your work email.
+
+The letter does not contain a title or text, but has an attached image.
+
+After checking it with an antivirus, you realize that it is an ordinary image with a kitten.
+
+Or is it unusual?
+
+kitty.zip
