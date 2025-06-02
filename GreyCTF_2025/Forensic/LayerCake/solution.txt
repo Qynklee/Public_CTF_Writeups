@@ -1,0 +1,2 @@
+
+ZIP header behind PNG header, remove PNG header, extract zip (this is word document), string|grep grey{}
