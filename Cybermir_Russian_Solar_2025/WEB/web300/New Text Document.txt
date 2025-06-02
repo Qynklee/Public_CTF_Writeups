@@ -1,0 +1,18 @@
+Web 300
+Our 'cutting-edge' login system was written by JSOC interns who swear it`s unbreakable.
+
+We suggest you take a closer look!
+
+You have full access to the source code of the app and can run it locally.
+
+Your task is to find the vulnerabilities, exploit them as a chain, and submit their CWE codes in the flag format below.
+
+No flag is hidden in the code or UI.
+
+The only correct submission is your vulnerability analysis.
+
+Flag format: solar{CWE-XX,CWE-YY}
+
+Please submit both CWE codes in the order you exploit them.
+
+coollogin.zip

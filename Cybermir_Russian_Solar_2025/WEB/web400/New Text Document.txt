@@ -1,0 +1,19 @@
+Your friend asked you to register for a super cool event and sent you a link.
+
+You notice a suspicious registration form.
+
+Can you spot what’s wrong with it?
+
+You have full access to the source code of the app and can run it locally.
+
+Your task is to find the vulnerabilities, exploit them as a chain, and submit their CWE codes in the flag format below.
+
+No flag is hidden in the code or UI.
+
+The only correct submission is your vulnerability analysis.
+
+Flag format: solar{CWE-XX,CWE-YY}
+
+Please submit both CWE codes in the order you exploit them.
+
+reg.zip

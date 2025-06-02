@@ -1,0 +1,5 @@
+Simple binary - enter 5 digits. If you`re lucky - you get a flag. But the odds are clearly no on your side.
+
+Important: The flag must be sorted in ascending order.
+
+math.zip
